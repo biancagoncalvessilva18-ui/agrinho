@@ -14,17 +14,12 @@
 <h1>Meu blog tech</h1>
 <p>Vou compartilhar conhecimentos sobre tecnologia e programação</p>
 </body>
-</html>
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<h2>Meu primeiro post</h2>
-<p>Boas-vindas ao meu novo blog! Aqui vou compartilhar dicas de programação e curiosidades da área de tecnologia.</p>
-<p>Por: Bianca Gonçalves da Silva</p>
 <header>
 <h1>Meu blog tech</h1>
 <p>Vou compartilhar conhecimentos sobre tecnologia e programação</p>
 </header>
 <main>
 <h2>Meu primeiro post</h2>
-<p>Por: Marcelo Paludetto</p>
+<p>Por: Bianca Gonçalves da Silva</p>
 <p>Boas-vindas ao meu novo blog! Aqui vou compartilhar dicas de programação e curiosidades da área de tecnologia.</p>
 </main>
